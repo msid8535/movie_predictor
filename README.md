@@ -17,8 +17,3 @@ Whether you want to find movies with a similar vibe to your favorite blockbuster
 - Cosine Similarity (scikit-learn): Computes similarity between movies based on their vectorized features.
 - Content-Based Filtering: Uses movie metadata (keywords, cast, genres, director) to determine similarity between movies.
 - CSV Data Source: Movie dataset containing columns like title, index, keywords, cast, genres, and director.
- 
-# Key Findings
-- The model successfully identified joint pain as the most important factor influencing Fibromyalgia severity, which is a well-known symptom.
-- Interestingly, depression and stress were found to be the second most important factor. This is a less-recognized symptom, highlighting the model's potential to uncover overlooked aspects of a condition.
-- This finding suggests that focusing on the mental health aspects of Fibromyalgia could be crucial for treatment and may help reduce hospital visits
