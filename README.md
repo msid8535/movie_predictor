@@ -1,6 +1,6 @@
 # Movie Predictor Application using Machine Learning
 
-The Movie Predictor Application is a content-based movie recommendation system that helps users discover new movies they'll love. By entering the name of a movie they like, the app analyzes its key features—such as keywords, cast, genres, and director—and returns five similar movies.
+The Movie Predictor Application is a content-based movie recommendation system that helps users discover new movies they'll love. By entering the name of a movie they like, the app analyzes its key features - such as keywords, cast, genres, and director - and returns five similar movies.
 It does this by transforming movie metadata into text vectors and comparing them using cosine similarity, identifying films with the highest feature overlap.
 
 # Key Features:
